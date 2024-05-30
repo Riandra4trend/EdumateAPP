@@ -1,0 +1,47 @@
+{
+    "mataPelajaran":
+        [
+            {
+                "id": 1,
+                "nama": "Matematika Minat",
+                "jenjang": "SMA Kelas XII - IPA",
+                "img": "https://i0.wp.com/calmatters.org/wp-content/uploads/2021/08/math-curriculum.jpg?fit=2000%2C1500&ssl=1"
+            },
+            {
+                "id": 2,
+                "nama": "Fisika",
+                "jenjang": "SMA Kelas XII - IPA"
+            },
+            {
+                "id": 3,
+                "nama": "Biologi",
+                "jenjang": "SMA Kelas XII - IPA"
+            },
+            {
+                "id": 4,
+                "nama": "Bahasa Indonesia",
+                "jenjang": "SMA Kelas XII - IPA"
+            }
+        ],
+    "materiDetail":
+        [
+            {
+                "materiId": 1,
+                "matpelId": 1,
+                "namaMateri": "Besaran dan Pengukuran",
+                "isiMateri": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate rutrum nisl, at blandit elit convallis at. Aenean mauris odio, molestie dictum dolor quis, sagittis dignissim velit. Maecenas non placerat est. Ut faucibus at tellus non ullamcorper. Sed non eros mi. Sed mi diam, sodales eu porttitor vel, convallis quis augue. Cras magna ipsum, lacinia et consequat a, tincidunt eget arcu. Pellentesque eu ante id metus viverra ornare. Nullam in sapien placerat, facilisis elit nec, molestie elit. "
+            },
+            {
+                "materiId": 2,
+                "matpelId": 1,
+                "namaMateri": "Statistika",
+                "isiMateri": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate rutrum nisl, at blandit elit convallis at. Aenean mauris odio, molestie dictum dolor quis, sagittis dignissim velit. Maecenas non placerat est. Ut faucibus at tellus non ullamcorper. Sed non eros mi. Sed mi diam, sodales eu porttitor vel, convallis quis augue. Cras magna ipsum, lacinia et consequat a, tincidunt eget arcu. Pellentesque eu ante id metus viverra ornare. Nullam in sapien placerat, facilisis elit nec, molestie elit. "
+            },
+            {
+                "materiId": 3,
+                "matpelId": 2,
+                "namaMateri": "Vektor",
+                "isiMateri": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vulputate rutrum nisl, at blandit elit convallis at. Aenean mauris odio, molestie dictum dolor quis, sagittis dignissim velit. Maecenas non placerat est. Ut faucibus at tellus non ullamcorper. Sed non eros mi. Sed mi diam, sodales eu porttitor vel, convallis quis augue. Cras magna ipsum, lacinia et consequat a, tincidunt eget arcu. Pellentesque eu ante id metus viverra ornare. Nullam in sapien placerat, facilisis elit nec, molestie elit. "
+            }          
+        ]
+}

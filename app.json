@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "eduapp",
+    "slug": "eduapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.riandradiva.eduapp",
+      "googleServicesFile": "./google-services/dev/GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.riandradiva.eduapp",
+      "googleServicesFile": "./google-services/dev/google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "googleServicesFile": "./google-services/google-services.json"
+    },
+    "plugins": [
+      "expo-router",
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ab3efecd-f63a-417a-be8b-11a9d6e084de"
+      }
+    }
+  },
+  "scheme": "eduapp"
+}

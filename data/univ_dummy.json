@@ -1,0 +1,168 @@
+{ "universitas":
+    [
+        {
+            "id": 1,
+            "univName": "Institut Teknologi Bandung",
+            "img": "https://dti.itb.ac.id/wp-content/uploads/2020/09/logo_itb_1024.png"
+        },
+        {
+            "id": 2,
+            "univName": "Universitas Indonesia",
+            "img": "https://uimagz.id/wp-content/uploads/2023/05/pngkit_ui-png_4061748-1-300x300.png"
+        },
+        {
+            "id": 3,
+            "univName": "Universitas Pancasila",
+            "img": "https://upload.wikimedia.org/wikipedia/id/4/46/Logo_Universitas_Pancasila.png"
+        },
+        {
+            "id": 4,
+            "univName": "Institut Pertanian Bogor",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bogor_Agricultural_University_%28IPB%29_symbol.svg"
+        },
+        {
+            "id": 5,
+            "univName": "Institut Teknologi Sepuluh November",
+            "img": "https://upload.wikimedia.org/wikipedia/id/thumb/0/01/Institut_Teknologi_Sepuluh_Nopember_seal.svg/1200px-Institut_Teknologi_Sepuluh_Nopember_seal.svg.png"
+        },
+        {
+            "id": 6,
+            "univName": "Universitas Brawjiaya",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Universitas_Brawijaya.svg/1200px-Logo_Universitas_Brawijaya.svg.png"
+        }
+    ],
+    "univ_details":
+    [
+        {
+            "univId": 1,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        },
+        {
+            "univId": 2,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        },
+        {
+            "univId": 3,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        },
+        {
+            "univId": 4,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        },
+        {
+            "univId": 5,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        },{
+            "univId": 5,
+            "lokasi": "Coblong, Jawa Barat",
+            "deskripsi":"Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan  Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan  nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional.", 
+            "passingGrade": {
+                "tertinggi": 722,
+                "terendah": 660
+            },
+            "fakultasJurusan": {
+                "Sekolah Teknik Elektro dan Informatika": [
+                    "Teknik Informatika",
+                    "Sistem dan Teknologi Informasi",
+                    "Teknik Biomedis",
+                    "Teknik Elektro",
+                    "Teknik Telekomunikasi",
+                    "Teknik Tenaga Listrik"
+                ],
+                "Fakultas Teknologi Industri": [
+                    "Blabla"
+                ]
+            }
+        }
+    ]
+}
